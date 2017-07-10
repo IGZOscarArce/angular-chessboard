@@ -1,0 +1,22 @@
+{
+  "name": "angular-chessboard",
+  "version": "0.0.6",
+  "description": "Wrapper for ChessBoard.js library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "angular",
+    "angular.io",
+    "angular2",
+    "angular4",
+    "ChessBoard",
+    "ChessBoard.js"
+  ],
+  "author": "Oskar Arce <oskar.arce@gmail.com>",
+  "license": "LGPL-2.0",
+  "dependencies": {
+    "chessboardjs": "0.0.1"
+  }
+}
